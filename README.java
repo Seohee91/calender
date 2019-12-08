@@ -1,5 +1,3 @@
-# calender
-
 import java.io.*;
 import java.util.*;
 
@@ -11,7 +9,7 @@ class Person{
    public double[][] workmoney=new double[12][31];
    
    Scanner input=new Scanner(System.in);
-
+   
    public void mainMenu() {
 	   
 	   while(true) {
