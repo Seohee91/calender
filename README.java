@@ -20,7 +20,7 @@ class Person{
 	   if(a==1) {
 		   signed(); break;}
 	   else if(a==2) {
-		   unsigned(); break;}	    
+		   unsigned(); break;}	   
 	   }
   }
    public void signed() {
